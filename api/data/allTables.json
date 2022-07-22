@@ -1,0 +1,100 @@
+{
+  "tables": [
+    {
+      "name": "Assento 1",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 2",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 3",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 4",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Recife"
+    },
+    {
+      "name": "Assento 5",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 6",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 7",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 8",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 9",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 10",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 11",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 12",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Recife"
+    },
+    {
+      "name": "Assento 13",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Curitiba"
+    },
+    {
+      "name": "Assento 14",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 15",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "São Paulo"
+    },
+    {
+      "name": "Assento 16",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Recife"
+    }
+  ]
+}
